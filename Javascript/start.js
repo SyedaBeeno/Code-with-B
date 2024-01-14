@@ -1,10 +1,10 @@
 const accountId = 11487
-let accountEmail = "mobishah765@gmail.com"
+let accountEmail = "mobi@gmail.com"
 var accountPassword = "mob12"
 accountCity = "Rawalpindi"
 
 // accountId = 2 not Allowed
-accountEmail = "syedabeeno680@gmail.com"
+accountEmail = "syeda0@gmail.com"
 accountPassword = "no12"
 accountCity = "Islamabad"
 let accountState;
